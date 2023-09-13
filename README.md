@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### I'm a undergraduate student, passionate about Machine Learning, Artificial Intelligence and Natural Language Processing. I like solving complex problems revolving around data. 
-- 🔭 I’m currently pursuing Computer Engineering from Pune Institute of Computer Technology,Pune.
+- 🔭 I’m currently pursuing Computer Engineering from Pune Institute of Computer Technology,Pune. (Graduation year 2025)
 - 🌱 I’m learning something new everyday.
 - 👯 I’m looking to work as intern in Tech field.
 - 🥅 2023 Goals: Participate in more Hackathons and contribute more to Open Source projects.
