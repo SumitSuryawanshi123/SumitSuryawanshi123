@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 ### Github Stats:
 
 
-<img align="left" width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitSuryawanshi123&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitSuryawanshi123&theme=vue-dark&hide_border=true" />
+<img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitSuryawanshi123&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+<img align="center" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitSuryawanshi123&theme=vue-dark&hide_border=true" />
 
 
 [Mail]: suryawanshisumit2003@gmail.com
