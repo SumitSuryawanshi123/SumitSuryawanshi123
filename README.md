@@ -1,27 +1,70 @@
-### Hi there, I'm Sumit Suryawanshi! 👋 
+# Hi, I'm Sumit Suryawanshi 👋
 
-<!--
-**SumitSuryawanshi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an undergraduate student, passionate about **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Natural Language Processing (NLP)**. My focus lies in developing intelligent systems and solutions that solve complex problems revolving around data and automation.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently pursuing **Computer Engineering** from Pune Institute of Computer Technology, Pune (Graduating in 2025).
+- 🌱 **Currently learning** advanced topics in AI, ML, and Computer Vision while working on real-world problems.
+- 👯 I’m looking for **internship opportunities** in the tech field, particularly in AI, ML, and data-centric roles.
+- 💼 My recent roles include **Research Intern at Tata Consultancy Services (TCS)**, where I developed strategies for **synthetic data generation** using LLAMA 3, and **Generative AI Intern** at Gokhale Institute of Politics and Economics, working on a **natural language query tool**.
+- 💬 **Ask me about** machine learning algorithms, transformers, large language models, and generative AI tools.
+- 🥅 **2024 Goals**: Participate in more hackathons, contribute actively to open-source projects, and dive deeper into generative AI and data science.
+- ⚡ **Fun fact**: Besides coding, I’m fascinated by **astronomy and space exploration**. In my free time, I play chess, the keyboard, and enjoy playing cricket.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Experience
 
-### I'm a undergraduate student, passionate about Machine Learning, Artificial Intelligence and Natural Language Processing. I like solving complex problems revolving around data. 
-- 🔭 I’m currently pursuing Computer Engineering from Pune Institute of Computer Technology,Pune. (Graduation year 2025)
-- 🌱 I’m learning something new everyday.
-- 👯 I’m looking to work as intern in Tech field.
-- 🥅 2023 Goals: Participate in more Hackathons and contribute more to Open Source projects.
-- 💬 Ask me about ML related stuff.
-- ⚡ Fun fact: I love astronomy and space. I play chess and some tunes on the keyboard. In my freetime, I also play cricket.
+**Tata Consultancy Services (TCS) – Research Intern**  
+*June 2024 – August 2024 | Pune, India*  
+- Developed and tested **Synthetic Data Generation strategies** powered by the LLAMA 3 Large Language Model, generating 20,000 records.
+- Achieved a **30% faster training cycle**, enabling earlier deployment of ML models.
+
+**Gokhale Institute of Politics and Economics – Generative AI Intern**  
+*January 2024 – March 2024 | Pune, India*  
+- Built a **Natural Language Query Data Analytics Tool** using **ChatGPT** that processed over 10,000 queries.
+- Enhanced user interaction with data using natural language commands, streamlining data analysis workflows.
+
+**Sarvatra Technologies – Machine Learning Intern**  
+*July 2023 – March 2024 | Pune, India*  
+- Developed a **real-time music recommendation system** using incremental ML models.
+- Designed **personalized healthcare summaries** with LLMs, increasing patient engagement by 20%.
+
+## 🎓 Education
+
+**Pune Institute of Computer Technology**  
+*Bachelor of Engineering in Computer Engineering – CGPA: 9.02/10.0*  
+*2022 – 2025 | Pune, India*
+
+**Puranmal Lahoti Government Polytechnic**  
+*Diploma in Engineering – Percentage: 97.18%*  
+*2019 – 2022 | Latur, India*
+
+## 🛠️ Skills & Tools
+
+- **Programming Languages**: C++, Java, Python, HTML, CSS, JavaScript
+- **Libraries & Frameworks**: Langchain, Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, React.js
+- **Technical Skills**: Machine Learning, Transformers, Large Language Models (LLMs), NLP, Data Preprocessing, Hyperparameter Tuning
+- **Databases**: MySQL, MongoDB
+- **Developer Tools**: Git, GitHub, VS Code, PyCharm, Eclipse
+- **Soft Skills**: Problem Solving, Teamwork, Coordination, Learnability, Ethics
+
+## 🏆 Achievements
+
+- **Larsen & Toubro (L&T)** – Selected as Diploma Engineer Trainee.
+- **2nd position** at INC- Impetus and Concepts International Level Project Competition at Pune Institute of Computer Technology.
+- Ranked **1st in diploma college** as a final-year student.
+
+## 💻 Projects
+
+**DataSpeak: Automated Data Analysis Software**  
+*Technologies: Generative AI, LLM, Streamlit, Python*  
+- Developed a platform for **automated data analysis** with natural language interaction.
+- Handles datasets with **up to 800 columns** and infinite rows, with CSV and multi-sheet support.
+
+**Online Food Ordering Chatbot**  
+*Technologies: NLP, DialogFlow, FastAPI, Python*  
+- Built a chatbot for **managing food orders** through text and audio inputs.
+- Integrated with an SQL database for secure order management.
+
+---
 
 ### Connect with me:
 
