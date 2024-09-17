@@ -4,7 +4,6 @@ I’m an undergraduate student, passionate about **Machine Learning (ML)**, **Ar
 
 - 🔭 I’m currently pursuing **Computer Engineering** from Pune Institute of Computer Technology, Pune (Graduating in 2025).
 - 🌱 **Currently learning** advanced topics in AI, ML, and Computer Vision while working on real-world problems.
-- 👯 I’m looking for **internship opportunities** in the tech field, particularly in AI, ML, and data-centric roles.
 - 💼 My recent roles include **Research Intern at Tata Consultancy Services (TCS)**, where I developed strategies for **synthetic data generation** using LLAMA 3, and **Generative AI Intern** at Gokhale Institute of Politics and Economics, working on a **natural language query tool**.
 - 💬 **Ask me about** machine learning algorithms, transformers, large language models, and generative AI tools.
 - 🥅 **2024 Goals**: Participate in more hackathons, contribute actively to open-source projects, and dive deeper into generative AI and data science.
@@ -31,11 +30,8 @@ I’m an undergraduate student, passionate about **Machine Learning (ML)**, **Ar
 
 **Pune Institute of Computer Technology**  
 *Bachelor of Engineering in Computer Engineering – CGPA: 9.02/10.0*  
-*2022 – 2025 | Pune, India*
+*2021 – 2025 | Pune, India*
 
-**Puranmal Lahoti Government Polytechnic**  
-*Diploma in Engineering – Percentage: 97.18%*  
-*2019 – 2022 | Latur, India*
 
 ## 🛠️ Skills & Tools
 
